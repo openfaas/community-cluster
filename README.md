@@ -2,7 +2,15 @@
 
 Sign-up for the OpenFaaS Cloud Community Cluster for git-based deployments and free TLS endpoints. The Community Cluster is free to use.
 
-* Screenshots of what your dashboard will look like:
+The OpenFaaS Cloud Community Cluster comes with:
+
+* Deep GitHub integration & CI/CD. Just `git push`
+* Public endpoints with free, automatic TLS
+* Personal dashboard with OAuth2 / MFA
+* Auto-scaling and metrics
+* Private and public repos supported
+
+Preview of the dashboard:
 
 ![Personal dashboard](https://www.openfaas.com/images/openfaas-cloud-gitlab/dashboard.png)
 
