@@ -1,6 +1,6 @@
 ## OpenFaaS Cloud Community Cluster
 
-Apply for early access.
+Activate your access.
 
 ### How does it work?
 

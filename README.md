@@ -10,7 +10,7 @@ Sign-up for the Community Cluster for git-based deployments and free TLS endpoin
 
 First off you should [apply for access](https://forms.gle/8e6ZXJKMcDHpV6Xu6). All applications will be reviewed, so please fill them out accurately and make sure you agree to the terms and conditions of the platform.
 
-## 2. After you get your invite
+## 2. After you get your invite - activate your access
 
 Once you've had an email confirmation you can go ahead and get started.
 
