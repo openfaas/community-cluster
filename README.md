@@ -28,7 +28,7 @@ First off you should [apply for access](https://forms.gle/8e6ZXJKMcDHpV6Xu6). Al
 
 ## 2. After you are approved for access
 
-Once you've had an email confirmation you can go ahead and get started.
+Once you've had an email confirmation you can go ahead and get started [with enabling your account](/docs/).
 
 * The first step is to send a PR to the `CUSTOMERS` file with your GitHub username or GitHub organization.
 
