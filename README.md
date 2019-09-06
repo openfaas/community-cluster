@@ -50,4 +50,6 @@ The quick start contains a quick lab to help you familiarise yourself with how O
 
 ## 3. DIY / self-service
 
-If you'd like to spin up your own OpenFaaS Cloud for your team, or for development you can use the [ofc-bootstrap](https://github.com/openfaas-incubator/ofc-bootstrap) tool.
+If you'd like to spin up your own OpenFaaS Cloud for your team, or for development you can use the [ofc-bootstrap](https://github.com/openfaas-incubator/ofc-bootstrap) tool. Once you have configured GitHub or GitLab, the bootstrap process takes around 100 seconds.
+
+If you're new to Kubernetes, you can ask for a free quote from OpenFaaS Ltd for installing OpenFaaS Cloud and creating your Kubernetes environment on your preferred cloud provider, email [sales@openfaas.com](mailto:sales@openfaas.com).
