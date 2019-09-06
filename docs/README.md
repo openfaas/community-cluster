@@ -69,7 +69,7 @@ Pick a language from the list below:
 faas-cli new --list
 ```
 
-You don't have to pick Go, but I'll do that in this example.
+You don't have to pick Go, but I'll do that in this example. If you'd like to try Node.js and Express.js, try the [New User Guide](https://docs.openfaas.com/openfaas-cloud/user-guide/).
 
 > Note: see appendix for additional templates available on the community cluster.
 
@@ -181,6 +181,8 @@ See the appendix to learn how scale to and from zero works.
 16. Get involved!
 
 Now it's over to you to Tweet, write a blog, [join Slack](https://docs.openfaas.com/community) and tell your friends. You can also Star the project, pick up an open issue, make a suggestion or contribute via GitHub: https://github.com/openfaas/openfaas-cloud/
+
+You can also try the [New User Guide](https://docs.openfaas.com/openfaas-cloud/user-guide/) which walks you through building a Node.js Express.js app / API with detailed screenshots and step-by-step instructions.
 
 ## Over to you - time to build something
 

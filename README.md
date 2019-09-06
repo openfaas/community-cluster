@@ -46,6 +46,8 @@ Please do not install the app on every repo. You can have more than one repo int
 
 Activate your access now with the [quickstart](./docs/)
 
+The quick start contains a quick lab to help you familiarise yourself with how OpenFaaS Cloud works, you can also try out the [New User Guide](https://docs.openfaas.com/openfaas-cloud/user-guide/) to deploy an API with Node.js and Express.js.
+
 ## 3. DIY / self-service
 
 If you'd like to spin up your own OpenFaaS Cloud for your team, or for development you can use the [ofc-bootstrap](https://github.com/openfaas-incubator/ofc-bootstrap) tool.
