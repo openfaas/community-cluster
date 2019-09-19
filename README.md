@@ -28,21 +28,15 @@ First off you should [apply for access](https://forms.gle/8e6ZXJKMcDHpV6Xu6). Al
 
 ## 2. After you are approved for access
 
-Once you've had an email confirmation you can go ahead and get started [with enabling your account](/docs/).
+Once you've had an email confirmation, you can go ahead and [enable your account](/docs/).
 
-* The first step is to send a PR to the `CUSTOMERS` file with your GitHub username or GitHub organization.
+### 2.1 Become an OpenFaaS Insider (optional)
 
-Please read the instructions very carefully, this change needs to be made via the `git` CLI or if you are using the UI, you need to type in a specific commit message. You'll receive details for this in 2.1.
+Read how to become an [OpenFaaS Insider](https://insiders.openfaas.io/) through GitHub Sponsors. Decide what you want to contribute towards the upkeep and running costs of the environment.
 
-* Second you will install the OpenFaaS Cloud GitHub App integration onto your chosen repo(s)
+* [Insiders Program on GitHub](https://insiders.openfaas.io/)
 
-Please do not install the app on every repo. You can have more than one repo integrated with OpenFaaS Cloud, but you should select each one individually.
-
-* Third you can push code created with `faas-cli new` into your repo
-
-* Fourth - you'll be able to access your dashboard for metrics, endpoints and feedback
-
-### 2.1 Activate your access
+### 2.2 New User Guide
 
 Activate your access now with the [quickstart](./docs/)
 
