@@ -26,21 +26,21 @@ First off you should [apply for access](https://forms.gle/8e6ZXJKMcDHpV6Xu6). Al
 
 > Note: You will also be [invited to OpenFaaS Slack](https://docs.openfaas.com/community/), log-in and join the #openfaas-cloud channel.
 
-## 2. After you are approved for access
+## 2. After you receive your confirmation email
 
-Once you've had an email confirmation, you can go ahead and [enable your account](/docs/).
+Once you receive a confirmation email, you can:
 
-### 2.1 Become an OpenFaaS Insider (optional)
+* Join the [Insiders Program on GitHub](https://insiders.openfaas.io/) (optional)
 
-Read how to become an [OpenFaaS Insider](https://insiders.openfaas.io/) through GitHub Sponsors. Decide what you want to contribute towards the upkeep and running costs of the environment.
+    Choose what you want to pay to contribute towards the running costs of the cluster
 
-* [Insiders Program on GitHub](https://insiders.openfaas.io/)
+* Activate your access now with the [quickstart](./docs/)
 
-### 2.2 New User Guide
+    Send your PR to the CUSTOMERS file and create a sample function. Make sure you read the appendix.
 
-Activate your access now with the [quickstart](./docs/)
+* Follow the New User Guide
 
-The quick start contains a quick lab to help you familiarise yourself with how OpenFaaS Cloud works, you can also try out the [New User Guide](https://docs.openfaas.com/openfaas-cloud/user-guide/) to deploy an API with Node.js and Express.js.
+    The quick start contains a quick lab to help you familiarise yourself with how OpenFaaS Cloud works, you can also try out the [New User Guide](https://docs.openfaas.com/openfaas-cloud/user-guide/) to deploy an API with Node.js and Express.js.
 
 ## 3. DIY / self-service
 
