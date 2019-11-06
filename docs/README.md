@@ -126,7 +126,7 @@ faas new <name-of-new-function> --lang go --prefix alexellis --append=./stack.ym
 
 Your dashboard provides build logs for failed builds, unit test errors and will give a live link to your endpoint.
 
-View your dashboard at https://system.o6s.io/dashboard/alexellis replacing *alexellis* for your own username.
+View your dashboard at https://system.o6s.io 
 
 You will be asked to Log in with GitHub for Single-Sign-On (SSO) - after that you will be issued a JWT token and cookie which is stored in your browser for further requests.
 
@@ -162,7 +162,7 @@ If you want to remove one or more of your functions you can either remove them f
 
 * Your dashboard
 
-At this point your dashboard can only be viewed by other OpenFaaS Cloud Community Cluster users in the CUSTOMERS file.
+Your dashboard can only be viewed by your user. You can also view dashboards for any organisations that you are a public member of that have functions deployed (Github).
 
 * Your endpoints
 
