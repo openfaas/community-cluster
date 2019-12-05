@@ -30,9 +30,9 @@ First off you should [apply for access](https://forms.gle/8e6ZXJKMcDHpV6Xu6). Al
 
 Once you receive a confirmation email, you can:
 
-* Join the [Insiders Program on GitHub](https://insiders.openfaas.io/) (optional)
+* Join the [Insiders Program on GitHub](https://insiders.openfaas.io/) (recommended)
 
-    Choose what you want to pay to contribute towards the running costs of the cluster
+    Choose what you want to pay to towards the running costs of the functions you'll be deploying to the community cluster
 
 * Activate your access now with the [quickstart](./docs/)
 
