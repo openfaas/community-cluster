@@ -1,6 +1,8 @@
 # community-cluster
 
-Sign-up for the OpenFaaS Cloud Community Cluster for git-based deployments and free TLS endpoints. The Community Cluster is free to use.
+Apply for free access to *The OpenFaaS Cloud Community Cluster* for CI/CD, hosting, and TLS endpoints.
+
+## What do you get?
 
 The OpenFaaS Cloud Community Cluster comes with:
 
@@ -9,6 +11,7 @@ The OpenFaaS Cloud Community Cluster comes with:
 * Personal dashboard with OAuth2 / MFA
 * Auto-scaling and metrics
 * Private and public repos supported
+* Build and runtime logs
 
 Preview of the dashboard:
 
@@ -16,17 +19,21 @@ Preview of the dashboard:
 
 ![Details for function](https://www.openfaas.com/images/openfaas-cloud-gitlab/details.png)
 
-## 0. Agree to the terms & conditions
+If you're new to OpenFaaS Cloud, then checkout [the user guide](https://docs.openfaas.com/openfaas-cloud/user-guide/)
+
+## Apply for access
+
+### 0. Agree to the terms & conditions
 
 By applying you have read and agree to the [terms and conditions of the Community Cluster](https://github.com/openfaas/openfaas-cloud/blob/master/PRIVACY.md).
 
-## 1. Apply for access
+### 1. Apply for access
 
 First off you should [apply for access](https://forms.gle/8e6ZXJKMcDHpV6Xu6). All applications will be reviewed, so please fill them out accurately and make sure you agree to the terms and conditions of the platform.
 
 > Note: You will also be [invited to OpenFaaS Slack](https://docs.openfaas.com/community/), log-in and join the #openfaas-cloud channel.
 
-## 2. After you receive your confirmation email
+### 2. After you receive your confirmation email
 
 Once you receive a confirmation email, you can:
 
