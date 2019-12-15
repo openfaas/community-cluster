@@ -202,6 +202,16 @@ Or if you're really running out of ideas you can create a function that responds
 
 ## Appendix
 
+### Find the cluster's external IP
+
+If you need to whitelist the IP of the cluster you can use the following function to find the current IP for external traffic.
+
+This endpoint is rate-limited and is shared for everyone, so please do not call it more than once per day.
+
+* [https://openfaas.o6s.io/external-ip](https://openfaas.o6s.io/external-ip)
+
+Find the [code for the function here](https://github.com/openfaas/cloud-functions/blob/master/external-ip/handler.go)
+
 ### Secrets
 
 You can make use of access tokens or other secrets through the use of encryption and SealedSecrets. Follow [this guide](https://gist.github.com/alexellis/46099ff77408d93944ee33fff66b240e) to try it out.
