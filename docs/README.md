@@ -239,6 +239,7 @@ Standard templates:
 - csharp
 - go
 - java8
+- node12
 - node
 - php7
 - python
