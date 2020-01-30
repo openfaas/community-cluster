@@ -37,9 +37,11 @@ First off you should [apply for access](https://forms.gle/8e6ZXJKMcDHpV6Xu6). Al
 
 Once you receive a confirmation email, you can:
 
-* Join the [Insiders Program on GitHub](https://insiders.openfaas.io/) (recommended)
+* Join the [Insiders Track via GitHub Sponsors](https://insiders.openfaas.io/) (recommended)
 
-    Choose what you want to pay to towards the running costs of the functions you'll be deploying to the community cluster
+    The Insiders Track provides regular updates, news, tutorials, and announcements for OpenFaaS and the Community Cluster, it starts from 5 USD / mo, and pays towards the additional costs incurred by accepting new users into the cluster.
+
+    This is optional, but a sign of goodwill and support for the project.
 
 * Activate your access now with the [quickstart](./docs/)
 
