@@ -87,13 +87,15 @@ If you want to customize the code edit `./helloworld/handler.go` or read the doc
 
 8. Install the GitHub App on your repo:
 
-Please *only do this for any OpenFaaS repos you create*, not for "all" repos. 
+> Please *only do this for any OpenFaaS repos you create*, not for "all" repos. 
 
 > If you do this for "all" repos then we will try to build any Git repo that you push changes into which will be wasteful and useless.
 
-https://github.com/apps/openfaas-cloud-community-cluster
+The [OpenFaaS community cluster app](https://github.com/apps/openfaas-cloud-community-cluster) provides a continuous delivery to the community cluster once you push commits to your `master` branch.
 
-This connects GitHub push events to OpenFaaS cloud so that we can build and deploy your function as soon as you push code.
+_Remark:_
+
+_All commits to branches other than `master` will be ignored by the app itself. If you want continuous integration verifying the proper test and build of your function, you need to implement a simple Github pipeline by placing a definition yaml in `.github/workflows/main.yml` of your repo like in [this snippet](https://gist.github.com/mrsimpson/453b57c569fa103decd0ad2ac3bb2b99)._ 
 
 9. Now commit the changes and push them to the remote side.
 
