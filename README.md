@@ -37,12 +37,6 @@ First off you should [apply for access](https://forms.gle/8e6ZXJKMcDHpV6Xu6). Al
 
 Once you receive a confirmation email, you can:
 
-* Join the [Insiders Track via GitHub Sponsors](https://insiders.openfaas.io/) (recommended)
-
-    The Insiders Track provides regular updates, news, tutorials, and announcements for OpenFaaS and the Community Cluster, it starts from 5 USD / mo, and pays towards the additional costs incurred by accepting new users into the cluster.
-
-    This is optional, but a sign of goodwill and support for the project.
-
 * Activate your access now with the [quickstart](./docs/)
 
     Send your PR to the CUSTOMERS file and create a sample function. Make sure you read the appendix.
@@ -50,6 +44,12 @@ Once you receive a confirmation email, you can:
 * Follow the New User Guide
 
     The quick start contains a quick lab to help you familiarise yourself with how OpenFaaS Cloud works, you can also try out the [New User Guide](https://docs.openfaas.com/openfaas-cloud/user-guide/) to deploy an API with Node.js and Express.js.
+
+* Subscribe to my premium newsletter on OpenFaaS, OpenFaaS Cloud and the community cluster (recommended)
+
+    Subscribe via [GitHub Sponsors](https://insiders.openfaas.io/)
+
+    You'll receive regular emails, updates, news and announcements about the community cluster as well as early access to features. The starting-point is 5USD, but you can pay whatever you want to go towards the running costs of the environment.
 
 ## 3. DIY / self-service
 
