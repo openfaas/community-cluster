@@ -41,17 +41,15 @@ First off you should [apply for access](https://forms.gle/8e6ZXJKMcDHpV6Xu6). Al
 
 ### 2. After you receive your confirmation email
 
-Once you receive a confirmation email, you can:
+Once you receive a confirmation email, you can activate your access now with the [quick start](./docs/).
 
-* Activate your access now with the [quickstart](./docs/)
+You will need to send a pull request to the CUSTOMERS file to add your username or GitHub organisation.
 
-    Send your PR to the CUSTOMERS file and create a sample function. Make sure you read the appendix.
+### 3. Deploy your first function with the New User Guide
 
-* Follow the New User Guide
+The [quick start](./docs/) contains a quick lab to help you familiarise yourself with how OpenFaaS Cloud works, you can also try out the [New User Guide](https://docs.openfaas.com/openfaas-cloud/user-guide/) to deploy an API with Node.js and Express.js.
 
-    The quick start contains a quick lab to help you familiarise yourself with how OpenFaaS Cloud works, you can also try out the [New User Guide](https://docs.openfaas.com/openfaas-cloud/user-guide/) to deploy an API with Node.js and Express.js.
-
-You can contribute towards the costs of your free account via [GitHub Sponsors](https://github.com/sponsors/alexellis/) and Sponsor OpenFaaS.
+> Note: you can contribute towards the costs of your free account via [GitHub Sponsors](https://github.com/sponsors/alexellis/).
 
 ## B) DIY / self-service
 
