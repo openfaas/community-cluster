@@ -27,9 +27,9 @@ Troubleshoot your code with runtime logs:
 
 If you're new to OpenFaaS Cloud, then checkout [the user guide](https://docs.openfaas.com/openfaas-cloud/user-guide/)
 
-## Apply for access
+There's two options for getting started. Free hosted access, or self-service.
 
-### 0. Agree to the terms & conditions
+## A) Get free hosted access
 
 By applying you have read and agree to the [terms and conditions of the Community Cluster](https://github.com/openfaas/openfaas-cloud/blob/master/PRIVACY.md).
 
@@ -53,8 +53,10 @@ Once you receive a confirmation email, you can:
 
 You can contribute towards the costs of your free account via [GitHub Sponsors](https://github.com/sponsors/alexellis/) and Sponsor OpenFaaS.
 
-## 3. DIY / self-service
+## B) DIY / self-service
 
 If you'd like to spin up your own OpenFaaS Cloud for your team, or for development you can use the [ofc-bootstrap](https://github.com/openfaas-incubator/ofc-bootstrap) tool. Once you have configured GitHub or GitLab, the bootstrap process takes around 100 seconds.
+
+View [OpenFaaS Cloud on GitHub](https://github.com/openfaas/openfaas-cloud/)
 
 OpenFaaS Ltd offers consulting and expert installation of OpenFaaS Cloud, email [sales@openfaas.com](mailto:sales@openfaas.com) to find out more.
