@@ -13,11 +13,17 @@ The OpenFaaS Cloud Community Cluster comes with:
 * Private and public repos supported
 * Build and runtime logs
 
-Preview of the dashboard:
+From your personal dashboard, you can manage all your functions and APIs in one place:
 
 ![Personal dashboard](https://www.openfaas.com/images/openfaas-cloud-gitlab/dashboard.png)
 
+You can see which commit is deployed and review the build logs:
+
 ![Details for function](https://www.openfaas.com/images/openfaas-cloud-gitlab/details.png)
+
+Troubleshoot your code with runtime logs:
+
+![Runtime logs](https://docs.openfaas.com/images/openfaas-cloud/welcome-11.png)
 
 If you're new to OpenFaaS Cloud, then checkout [the user guide](https://docs.openfaas.com/openfaas-cloud/user-guide/)
 
