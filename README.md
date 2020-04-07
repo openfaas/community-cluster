@@ -45,14 +45,10 @@ Once you receive a confirmation email, you can:
 
     The quick start contains a quick lab to help you familiarise yourself with how OpenFaaS Cloud works, you can also try out the [New User Guide](https://docs.openfaas.com/openfaas-cloud/user-guide/) to deploy an API with Node.js and Express.js.
 
-* Subscribe to my premium newsletter on OpenFaaS, OpenFaaS Cloud and the community cluster (recommended)
-
-    Subscribe via [GitHub Sponsors](https://insiders.openfaas.io/)
-
-    You'll receive regular emails, updates, news and announcements about the community cluster as well as early access to features. The starting-point is 5USD, but you can pay whatever you want to go towards the running costs of the environment.
+You can contribute towards the costs of your free account via [GitHub Sponsors](https://github.com/sponsors/alexellis/) and Sponsor OpenFaaS.
 
 ## 3. DIY / self-service
 
 If you'd like to spin up your own OpenFaaS Cloud for your team, or for development you can use the [ofc-bootstrap](https://github.com/openfaas-incubator/ofc-bootstrap) tool. Once you have configured GitHub or GitLab, the bootstrap process takes around 100 seconds.
 
-If you're new to Kubernetes, you can ask for a free quote from OpenFaaS Ltd for installing OpenFaaS Cloud and creating your Kubernetes environment on your preferred cloud provider, email [sales@openfaas.com](mailto:sales@openfaas.com).
+OpenFaaS Ltd offers consulting and expert installation of OpenFaaS Cloud, email [sales@openfaas.com](mailto:sales@openfaas.com) to find out more.
