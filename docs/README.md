@@ -237,19 +237,22 @@ Standard templates:
 
 ```
 - csharp
+- dockerfile
 - go
+- java11
+- java11-vert-x
 - java8
-- node12
 - node
+- node12
 - php7
 - python
 - python3
+- python3-debian
 - ruby
 ```
 
 Additional templates:
 
-* [node8-express](https://github.com/openfaas-incubator/node8-express-template)
 * [node10-express](https://github.com/openfaas-incubator/node10-express-template)
 * [golang-http](https://github.com/openfaas-incubator/golang-http-template)
 * [golang-middleware](https://github.com/openfaas-incubator/golang-http-template)
@@ -261,6 +264,30 @@ For a list of official templates type in `faas-cli new --list`.
 > Note: the `dockerfile` type is restricted from use in the Community Cluster. If you host your own OpenFaaS Cloud cluster, then you can select whichever templates you want.
 
 If you need additional templates to be made available, please let us know.
+
+#### Node.js
+
+The preferred template for Node.js is `node12`.
+
+#### Go modules
+
+In `stack.yml`, under your function, add a `build_args` entry for `GO111MODULE`
+
+```yaml
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:8080
+functions:
+  has-module:
+    lang: go
+    handler: ./has-module
+    image: username/has-module:latest
+    build_args:
+      GO111MODULE: on
+```
+
+Read more in the [docs here](https://docs.openfaas.com/cli/templates/#go-go-classic-template)
 
 ### Limits and constraints
 
