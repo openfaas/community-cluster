@@ -98,6 +98,7 @@ This connects GitHub push events to OpenFaaS cloud so that we can build and depl
 9. Now commit the changes and push them to the remote side.
 
 ```
+git add -A
 git commit -s -m "Initial function"
 git push origin master
 ```
