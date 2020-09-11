@@ -27,27 +27,16 @@ These instructions apply to the OpenFaaS Cloud Community Cluster. This cluster r
 
 [Fork/Star the Github repo](https://github.com/openfaas/openfaas-cloud) for the conceptual architecture diagram and for more screenshots.
 
+## Pre-reqs Request access by Pull Request
+
+1. Agree to the [Terms & Conditions and read the privacy statement](https://github.com/openfaas/openfaas-cloud/blob/master/PRIVACY.md)
+2. Send your Google Form in to apply for access
+
+Wait for an email from the OpenFaaS Ltd team. Feel free to email [sales@openfaas.com](mailto:sales@openfaas.com) if you haven't heard from us within 2-5 working days.
+
 ## Quick start (5-10 minutes)
 
 This quick-start takes around 5-10 minutes and doesn't require you to setup Docker or other tooling on your computer. You'll only need access to `git` and the OpenFaaS CLI.
-
-### Request access by Pull Request
-
-1. Agree to the [Terms & Conditions and read the privacy statement](https://github.com/openfaas/openfaas-cloud/blob/master/PRIVACY.md)
-
-2. Send a PR to the [CUSTOMERS](https://github.com/openfaas/openfaas-cloud/blob/master/CUSTOMERS) file with your GitHub username. Add your username to the end of the file.
-
-If you edit the file in the UI, you need to sign-off your commit by entering this text manually in the commit Description.
-
-```
-Add your-username-here to CUSTOMERS file
-
-Signed-off-by: My Full Name <my.email@address.com>
-```
-
-If you send the PR via the `git` CLI then type in `git commit --signoff` to sign-off your commit and use the message as per above. If you've never signed-off a commit you may need to run `git config user.name "Your Name"` and `git config user.email "your-email"`.
-
-In the Pull Request you'll need to say how you found out about OpenFaaS Cloud and what you'd like to run there. Early access to the Community Cluster is limited and requests to join will be reviewed.
 
 ### Create a GitHub repo for your OpenFaaS functions
 
@@ -142,6 +131,14 @@ https://alexellis.o6s.io/hallo
 The above username is "alexellis" and the function name is "hallo"
 
 You can now use your public endpoint for whatever you need. You can read HTTP meta-data like the query-string, headers and path. [Read more in the Workshop](https://github.com/openfaas/workshop/blob/master/lab4.md#inject-configuration-through-environmental-variables).
+
+### Remove the functions
+
+When you're finished, please remove your functions by:
+
+* Removing the code and do a git push
+* Delete the repo
+* Remove OpenFaaS Cloud from the specific repo
 
 ### Rinse & repeat
 
@@ -254,7 +251,6 @@ Standard templates:
 
 Additional templates:
 
-* [node10-express](https://github.com/openfaas-incubator/node10-express-template)
 * [golang-http](https://github.com/openfaas-incubator/golang-http-template)
 * [golang-middleware](https://github.com/openfaas-incubator/golang-http-template)
 

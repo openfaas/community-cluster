@@ -37,19 +37,20 @@ By applying you have read and agree to the [terms and conditions of the Communit
 
 First off you should [apply for access](https://forms.gle/8e6ZXJKMcDHpV6Xu6). All applications will be reviewed, so please fill them out accurately and make sure you agree to the terms and conditions of the platform.
 
-> Note: You will also be [invited to OpenFaaS Slack](https://docs.openfaas.com/community/), log-in and join the #openfaas-cloud channel.
-
 ### 2. After you receive your confirmation email
 
-Once you receive a confirmation email, you can activate your access now with the [quick start](./docs/).
-
-You will need to send a pull request to the CUSTOMERS file to add your username or GitHub organisation.
+When you receive your confirmation email, you'll already have access. Your username will also be added to a [CUSTOMERS file](https://github.com/openfaas/openfaas-cloud/blob/master/CUSTOMERS) in the openfaas-cloud repo.
 
 ### 3. Deploy your first function with the New User Guide
 
-The [quick start](./docs/) contains a quick lab to help you familiarise yourself with how OpenFaaS Cloud works, you can also try out the [New User Guide](https://docs.openfaas.com/openfaas-cloud/user-guide/) to deploy an API with Node.js and Express.js.
+From here you have a couple of options for kicking the tires. It's recommended to try both:
 
-> Note: you can contribute towards the costs of your free account via [GitHub Sponsors](https://github.com/sponsors/alexellis/).
+* First try the [quick start](./docs/) to help you familiarise yourself with how OpenFaaS Cloud works
+* Then run through the walk-through in the [New User Guide](https://docs.openfaas.com/openfaas-cloud/user-guide/) to deploy an API with Node.js and Express.js
+
+You will also be [invited to OpenFaaS Slack](https://docs.openfaas.com/community/) where you can ask questions in the `#openfaas-cloud` channel.
+
+If you want to keep up to date and help support the costs of your free account, you can do so via [GitHub Sponsors](https://github.com/sponsors/alexellis/).
 
 ## B) DIY / self-service
 
