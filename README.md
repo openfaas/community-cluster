@@ -54,7 +54,7 @@ If you want to keep up to date and help support the costs of your free account, 
 
 ## B) DIY / self-service
 
-If you'd like to spin up your own OpenFaaS Cloud for your team, or for development you can use the [ofc-bootstrap](https://github.com/openfaas-incubator/ofc-bootstrap) tool. Once you have configured GitHub or GitLab, the bootstrap process takes around 100 seconds.
+If you'd like to spin up your own OpenFaaS Cloud for your team, or for development you can use the [ofc-bootstrap](https://github.com/openfaas/ofc-bootstrap) tool. Once you have configured GitHub or GitLab, the bootstrap process takes around 100 seconds.
 
 View [OpenFaaS Cloud on GitHub](https://github.com/openfaas/openfaas-cloud/)
 
